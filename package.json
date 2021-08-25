@@ -1,0 +1,23 @@
+{
+  "name": "parse-example-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "rm -rf dist",
+    "start": "npx tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@omnichat/omnichat-model": "^1.22.1",
+    "dotenv": "^10.0.0",
+    "parse": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.1",
+    "@types/parse": "^2.18.9",
+    "typescript": "^4.3.5"
+  }
+}
