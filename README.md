@@ -13,6 +13,6 @@ npm i
 npm start
 ```
 ### Links
-https://docs.parseplatform.org/js/guide/#queries
-https://parseplatform.org/
-https://dev-parse2.omni.chat/
+[https://docs.parseplatform.org/js/guide/#queries]
+[https://parseplatform.org/]
+[https://dev-parse2.omni.chat/]
